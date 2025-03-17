@@ -1,13 +1,20 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Project.md
 
-[Page Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
-[Page Roadmap Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/README.md
+[Page Project Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Project.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Learning/LearningHome.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/ChangesHome.md
+[Page Roadmap Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Roadmap.md
 
-[Sec Standards]:link
-[Sec Details]:link
-[Sec Layout]:link
+[Sec Standards]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Project.md#design-standards
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Project.md#project-details
+[Sec Layout]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Project.md#system-layout
+
+[Tag Sys EDesign]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/SystemTags_DL.md
+[Tag Game RPG]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/GameTags_DL.md
+[Tag Game Simulation]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/GameTags_DL.md
+[Tag Game Idle]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/GameTags_DL.md
+[Tag Game Sandbox]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Design%20Layout/Project/GameTags_DL.md
 
 # Realms Tutorial Collections: "Realm of Desire" - Project
 
@@ -18,6 +25,7 @@ Welcome to the project documentation for Realm of Desire.
 
 - [Home][Page Home] 
 	- Project(You are here)
+		- [Systems][Sec Layout]
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]
 
@@ -50,6 +58,10 @@ This feature is currently under work.
 	- Versioning Handler For
 		- E.AMT.Social.Wiki.Games.Desire, Wiki
 		- E.AMT.Content.Games.Desire, JSON Content
+	- Dependencies:
+		- E.AMT.Libs.Core, Realms Core
+		- E.AMT.Libs.Engine, Realms Engine
+
 
 This is our cutom attempt for an Idle RPG Sandbox designed to be a lightweight lore and history development. 
 
@@ -63,3 +75,4 @@ This is our cutom attempt for an Idle RPG Sandbox designed to be a lightweight l
 	- [Races][Sys Races]
 	- [Sandbox][Sys Sandbox]
 	- [Skills][Sys Skills]
+	- [Traits][Sys Traits]

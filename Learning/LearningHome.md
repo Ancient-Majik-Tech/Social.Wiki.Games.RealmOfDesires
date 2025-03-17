@@ -1,8 +1,10 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Learning/LearningHome.md
 
-[Page Home]:link
-[Page Project Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Project.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Project.md#system-layout
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Learning/LearningHome.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/ChangesHome.md
 
 [Sec Welcome]:link
 [Sec Tuts]:link
@@ -12,7 +14,8 @@
 ## Collect Index
 
 - [Home][Page Home]
-	- [Project][Page Project Home]
+	- [Project][Page Proj Home]
+		- [Systems][Page Sys Home]
 	- Learn (You are Here)
 	- [Changes][Page Changes Home]
 

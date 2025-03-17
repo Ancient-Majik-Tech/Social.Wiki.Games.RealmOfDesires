@@ -1,21 +1,23 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.4.0.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Learn Home]:link
-[Page Changes Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Project.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Project.md#system-layout
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Learning/LearningHome.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/ChangesHome.md
 
-[Page Change Previous]:link
+[Page Change Previous]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.3.0.md
 [Page Change Next]:link
 
-[Sec Details]:[page]#details
-[Sec General]:[page]#general-changes
-[Sec Proj]:[page]#project-changes
-[Sec NewSys]:[page]#new-systems
-[Sec ChangedSys]:[page]#changed-systems
-[Sec Content]:[page]#content-changes
-[Sec Fixes]:[page]#fixes
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.4.0.md#details
+[Sec General]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.4.0.md#general-changes
+[Sec Proj]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.4.0.md#project-changes
+[Sec NewSys]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.4.0.md#new-systems
+[Sec ChangedSys]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.4.0.md#changed-systems
+[Sec Content]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.4.0.md#content-changes
+[Sec Fixes]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.4.0.md#fixes
 
+[Sys ContentPack]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Systems/ContentPackagesSys.md
 
 # Realms Tutorial Collections: "Realm of Desire" - Changes - V D 0.0.4.0
 
@@ -25,6 +27,7 @@ Welcome for the Update page for V D 0.0.4.0 here you can learn about what happen
 
 - [Home][Page Home]
 	- [Project][Page Proj Home]
+		- [Systems][Page Sys Home]
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]
 		- V D 0.0.4.0 (You are here)
@@ -45,7 +48,7 @@ Welcome for the Update page for V D 0.0.4.0 here you can learn about what happen
 
 This section covers the details of this update including if it is the currently active update.
 
-[Update]
+This update was dedicated to bringing the Wiki online and completed.
 
 - Data
 	- [Previous][Page Change Previous]
@@ -57,6 +60,7 @@ This section covers the details of this update including if it is the currently 
 The following is a list of the general project changes that happend durring this update, these are changes that do not fit into the other categories of changes.
 
 - Changes
+	- Fully Documented
 
 ### Project Changes
 
@@ -77,6 +81,8 @@ The following is a list of the new systems along with the number of starting fea
 
 - New Systems
 	- [Content Packages][Sys ContentPack]
+
+
 
 ### Changed Systems
 

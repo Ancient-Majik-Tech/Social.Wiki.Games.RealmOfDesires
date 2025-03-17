@@ -1,16 +1,16 @@
-[Page]:link
+[Page]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/ChangesHome.md
 
-[Page Home]:link
-[Page Proj Home]:link
-[Page Sys Home]:link
-[Page Learn Home]:link
+[Page Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Project.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Project/Project.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Learning/LearningHome.md
 
-[Page Changes V1]:link
-[Page Changes V2]:link
-[Page Changes V3]:link
-[Page Changes V4]:link
+[Page Changes V1]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md
+[Page Changes V2]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md
+[Page Changes V3]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.3.0.md
+[Page Changes V4]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.4.0.md
 
-[Sec ReleaseBoard]:[page]#latest-releases-board
+[Sec ReleaseBoard]:https://github.com/Ancient-Majik-Tech/Social.Wiki.Games.RealmOfDesires/blob/main/Changes/ChangesHome.md#latest-releases-board
 
 # Realms Tutorial Collections: "Realm Of Desire" - Changes - Home
 
