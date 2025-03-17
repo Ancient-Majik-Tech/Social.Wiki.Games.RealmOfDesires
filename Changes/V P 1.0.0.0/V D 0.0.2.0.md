@@ -51,7 +51,7 @@ Welcome for the Update page for V D 0.0.2.0 here you can learn about what happen
 
 This section covers the details of this update including if it is the currently active update.
 
-[Update]
+This update was dedicated to the adding some basic concepts to the basic design.
 
 - Data
 	- [Previous][Page Change Previous]
@@ -85,9 +85,6 @@ The following is a list of the new systems along with the number of starting fea
 	- [Stats and Attributes][Sys Stats]
 	- [Skills][Sys Skills]
 	- [Traits][Sys Traits]
-
-
-
 
 ### Changed Systems
 
